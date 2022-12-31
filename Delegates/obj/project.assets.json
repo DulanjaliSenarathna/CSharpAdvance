@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpAdvance\\CSharpAdvance\\Genarics.csproj",
-      "projectName": "Genarics",
-      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpAdvance\\CSharpAdvance\\Genarics.csproj",
+      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpAdvance\\Delegates\\Delegates.csproj",
+      "projectName": "Delegates",
+      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpAdvance\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpAdvance\\CSharpAdvance\\obj\\",
+      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpAdvance\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
