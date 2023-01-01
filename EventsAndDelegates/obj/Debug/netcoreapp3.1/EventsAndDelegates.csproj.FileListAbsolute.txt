@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\Dulanjali\Desktop\CSharpAdvance\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
