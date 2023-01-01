@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\bin\Debug\netcoreapp3.1\Extension Methods.exe
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\bin\Debug\netcoreapp3.1\Extension Methods.deps.json
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\bin\Debug\netcoreapp3.1\Extension Methods.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\bin\Debug\netcoreapp3.1\Extension Methods.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\bin\Debug\netcoreapp3.1\Extension Methods.dll
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\bin\Debug\netcoreapp3.1\Extension Methods.pdb
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.dll
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.pdb
+C:\Users\Dulanjali\Desktop\CSharpAdvance\Extension Methods\obj\Debug\netcoreapp3.1\Extension Methods.genruntimeconfig.cache
